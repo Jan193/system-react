@@ -1,0 +1,37 @@
+.rongzi-item {
+  border: 1px solid #eee;
+  box-shadow: 2px 2px #fefefe;
+  margin-bottom: 20px;
+}
+.title {
+  display: flex;
+  background-color: #F6F8FE;
+  padding: 10px 15px;
+}
+.title-name {
+  flex: 1;
+}
+.op-btn {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  display: inline-block;
+  padding: 0 10px;
+}
+.item-main {
+  padding: 10px 15px;
+}
+.item-row {
+  display: flex;
+  flex-wrap: wrap;
+  line-height: 30px;
+}
+.item-col {
+  flex: 1;
+}
+.manager {
+  flex: .8;
+}
+.label {
+  color: #ADB3BA;
+}

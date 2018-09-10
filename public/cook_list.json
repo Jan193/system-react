@@ -1,0 +1,21 @@
+{
+    "errorCode": 0,
+    "msg": "",
+    "data": [{
+        "id": 0,
+        "text": "中文-简体",
+        "code": "CN"
+    }, {
+        "id": 0,
+        "text": "Deutsch-Germany",
+        "code": "DE"
+    }, {
+        "id": 0,
+        "text": "English",
+        "code": "EN"
+    }, {
+        "id": 0,
+        "text": "French-France",
+        "code": "FR"
+    }]
+}

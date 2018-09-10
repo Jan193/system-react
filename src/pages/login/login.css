@@ -1,0 +1,52 @@
+.m-login {
+    height: 100vh;
+    background: -webkit-gradient(#2C5BA6, #67A2CA);
+    background: -webkit-linear-gradient(#172243, #328DB3)
+}
+.lg-form {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    padding: 5px 20px;
+    width: 300px;
+}
+.lg-form > p {
+    padding: 10px;
+}
+.lg-title {
+    text-align: center;
+    font-size: 16px;
+}
+.lg-input {
+    border: none;
+    outline: none;
+    outline-color:rgba(0, 0, 0, 0.65);
+    border-bottom: 1px solid #fff;
+    background-color: transparent;
+    padding: 5px;
+    font-size: 16px;
+    color: #fff;
+}  
+.lg-input::placeholder {
+    color: #fff;
+}
+.lg-btn {
+    padding: 8px 0;
+    color: #fff;
+    background-color: #2a799f;
+    border: none;
+}
+
+.lg-input, .lg-btn {
+    width: 100%;
+    box-sizing: border-box;
+}
+.lg-tip {
+    font-size: 12px;
+    color:red;
+}
+.lg-form .lg-tip {
+    padding-top: 0;
+}

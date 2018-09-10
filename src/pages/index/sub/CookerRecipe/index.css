@@ -1,0 +1,17 @@
+
+.cook-list-item {
+    margin-right: 10px;
+    width: 120px;
+}
+.ant-select ant-select-enabled {
+    width: 100%;
+}
+.cook-list-item p {
+    line-height: 30px;
+}
+
+.cook-table-list img {
+    width: 80px;
+    height: 80px;
+}
+
